@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TouchEvent</string>
+    <string name="location">位置显示</string>
+    <string name="behave">动作显示</string>
+</resources>
